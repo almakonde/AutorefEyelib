@@ -1,0 +1,33 @@
+{
+    "features":["age","meanK","ACD","WTW","axialLength","targetRefraction"],
+    "valid_ranges":{"age":[40,100],
+                    "meanK":[35,47],
+                    "axialLength":[20,40],
+                    "ACD":[2,5],
+                    "WTW":[10,14],
+                    "targetRefraction":[-10,10],
+                    "deltaR":[-3,3],
+                    "Followup_Days":[10,100]},
+    "formulas":["SRKT","Shammas","Haigis","Binkhorst-2","Holladay-1","Hoffer-Q","Olsen"],
+    "features_reg":["age","axialLength","ACD","meanK","targetRefraction"],
+    "features_class":["age","axialLength","ACD","meanK","targetRefraction"],
+    "alpha":[1],
+    "pDelta":0.5,
+    "rDelta":0.25,
+    "Aconst":118.9,
+    "n_c":{"SRKT":1.333,"T2":1.333,"Barrett-1":1.336,"Hoffer-Q":1.336,"Olsen":1.3315,"Shammas":1.3333,"Haigis":1.332,"Holladay-1":1.336,"Binkhorst-2":1.336},
+    "n_v":{"SRKT":1.336,"T2":1.336,"Barrett-1":1.336,"Hoffer-Q":1.336,"Olsen":1.336,"Shammas":1.336,"Haigis":1.336,"Holladay-1":1.336,"Binkhorst-2":1.333},
+    "dev":{"paramGrid":{"n_estimators":[50,60,70,80,90,100],
+                             "criterion":["entropy","gini"],
+                             "max_depth":[50,100,150,200,250,300],
+                             "ccp_alpha":[1e-3, 1e-4, 1e-5, 1e-6]},
+                "tune_hyperparameters": false,
+                "export_model":false,
+                "min_followup_days":10,
+                "max_followup_days":120,
+                "frac_training":0.85,
+                "num_exp":1,
+                "showResultFigures":false}
+
+
+}

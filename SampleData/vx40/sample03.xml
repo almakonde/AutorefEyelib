@@ -1,0 +1,1000 @@
+<?xml version='1.0' standalone='yes'?>
+<optic>
+	<optometry>
+		<compagny>Visionix Ltd</compagny>
+		<model_name>VX40</model_name>
+		<machine_no>1826</machine_no>
+		<version>2.3.1607.1901</version>
+		<date>04/Jan/2022</date>
+		<time>16:59:12</time>
+		<patient>
+			<ID></ID>
+			<first_name></first_name>
+			<middle_name></middle_name>
+			<last_name></last_name>
+			<gender></gender>
+			<birthday></birthday>
+			<address>
+				<street></street>
+				<street2></street2>
+				<zip></zip>
+				<city></city>
+			</address>
+			<contact>
+				<phone></phone>
+				<mobile_phone></mobile_phone>
+				<fax></fax>
+				<email></email>
+			</contact>
+		</patient>
+		<objective_mesurement>
+			<ID></ID>
+			<measure_WF>
+				<magnification></magnification>
+				<VD unit="mm"></VD>
+				<axis_step unit="deg"></axis_step>
+				<diopter_step unit="D"></diopter_step>
+				<cylinder_mode></cylinder_mode>
+				<wf_right>
+					<cataract_mode></cataract_mode>
+					<IOL_mode></IOL_mode>
+					<ouverture unit="mm"></ouverture>
+					<half_far_pupillary_distance></half_far_pupillary_distance>
+					<Photopic>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<SE unit="D"></SE>
+						<pupil unit="mm"></pupil>
+						<total_rms unit="mu"></total_rms>
+						<Zernike_LOA>
+							<LOA unit="%"></LOA>
+							<LOA_total></LOA_total>
+							<Z00></Z00>
+							<Z11></Z11>
+							<Z20></Z20>
+							<Z22></Z22>
+						</Zernike_LOA>
+						<Zernike_HOA>
+							<HOA unit="%"></HOA>
+							<HOA_total></HOA_total>
+							<Z40></Z40>
+							<Z42></Z42>
+							<Z44></Z44>
+							<Z51></Z51>
+							<Z53></Z53>
+							<Z55></Z55>
+							<Z60></Z60>
+							<Z62></Z62>
+							<Z64></Z64>
+							<Z66></Z66>
+							<Z71></Z71>
+							<Z73></Z73>
+							<Z75></Z75>
+							<Z77></Z77>
+						</Zernike_HOA>
+					</Photopic>
+					<Mesopic>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<SE unit="D"></SE>
+						<pupil unit="mm"></pupil>
+						<total_rms unit="mu"></total_rms>
+						<Zernike_LOA>
+							<LOA unit="%"></LOA>
+							<LOA_total></LOA_total>
+							<Z00></Z00>
+							<Z11></Z11>
+							<Z20></Z20>
+							<Z22></Z22>
+						</Zernike_LOA>
+						<Zernike_HOA>
+							<HOA unit="%"></HOA>
+							<HOA_total></HOA_total>
+							<Z40></Z40>
+							<Z42></Z42>
+							<Z44></Z44>
+							<Z51></Z51>
+							<Z53></Z53>
+							<Z55></Z55>
+							<Z60></Z60>
+							<Z62></Z62>
+							<Z64></Z64>
+							<Z66></Z66>
+							<Z71></Z71>
+							<Z73></Z73>
+							<Z75></Z75>
+							<Z77></Z77>
+						</Zernike_HOA>
+					</Mesopic>
+					<Near_Vision_fast>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<addition></addition>
+					</Near_Vision_fast>
+				</wf_right>
+				<wf_left>
+					<cataract_mode></cataract_mode>
+					<IOL_mode></IOL_mode>
+					<ouverture unit="mm"></ouverture>
+					<half_far_pupillary_distance></half_far_pupillary_distance>
+					<Photopic>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<SE unit="D"></SE>
+						<pupil unit="mm"></pupil>
+						<total_rms unit="mu"></total_rms>
+						<Zernike_LOA>
+							<LOA unit="%"></LOA>
+							<LOA_total></LOA_total>
+							<Z00></Z00>
+							<Z11></Z11>
+							<Z20></Z20>
+							<Z22></Z22>
+						</Zernike_LOA>
+						<Zernike_HOA>
+							<HOA unit="%"></HOA>
+							<HOA_total></HOA_total>
+							<Z40></Z40>
+							<Z42></Z42>
+							<Z44></Z44>
+							<Z51></Z51>
+							<Z53></Z53>
+							<Z55></Z55>
+							<Z60></Z60>
+							<Z62></Z62>
+							<Z64></Z64>
+							<Z66></Z66>
+							<Z71></Z71>
+							<Z73></Z73>
+							<Z75></Z75>
+							<Z77></Z77>
+						</Zernike_HOA>
+					</Photopic>
+					<Mesopic>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<SE unit="D"></SE>
+						<pupil unit="mm"></pupil>
+						<total_rms unit="mu"></total_rms>
+						<Zernike_LOA>
+							<LOA unit="%"></LOA>
+							<LOA_total></LOA_total>
+							<Z00></Z00>
+							<Z11></Z11>
+							<Z20></Z20>
+							<Z22></Z22>
+						</Zernike_LOA>
+						<Zernike_HOA>
+							<HOA unit="%"></HOA>
+							<HOA_total></HOA_total>
+							<Z40></Z40>
+							<Z42></Z42>
+							<Z44></Z44>
+							<Z51></Z51>
+							<Z53></Z53>
+							<Z55></Z55>
+							<Z60></Z60>
+							<Z62></Z62>
+							<Z64></Z64>
+							<Z66></Z66>
+							<Z71></Z71>
+							<Z73></Z73>
+							<Z75></Z75>
+							<Z77></Z77>
+						</Zernike_HOA>
+					</Mesopic>
+					<Near_Vision_fast>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<addition></addition>
+					</Near_Vision_fast>
+				</wf_left>
+			</measure_WF>
+			<measure_TOPO>
+				<topo_right>
+					<axis_step unit="deg"></axis_step>
+					<cylinder_mode></cylinder_mode>
+					<diopter_step unit="D"></diopter_step>
+					<refractive_index></refractive_index>
+					<CL_fitting>
+						<CL_fitting></CL_fitting>
+						<manufacturer></manufacturer>
+						<model></model>
+						<diameter unit="mm"></diameter>
+						<base_curve unit="mm"></base_curve>
+					</CL_fitting>
+					<image>
+						<Axial></Axial>
+						<Instantaneous></Instantaneous>
+						<Elevation></Elevation>
+						<Refraction></Refraction>
+					</image>
+					<sim_k>
+						<K1>
+							<radius unit="mm"></radius>
+							<axis unit="deg"></axis>
+						</K1>
+						<K2>
+							<radius unit="mm"></radius>
+							<axis unit="deg"></axis>
+						</K2>
+						<average>
+							<radius unit="mm"></radius>
+						</average>
+						<cylinder>
+							<power unit="D"></power>
+							<axis unit="deg"></axis>
+						</cylinder>
+					</sim_k>
+					<geometry>
+						<P></P>
+						<e></e>
+					</geometry>
+					<meridians>
+						<m3mm>
+							<K1>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K1>
+							<K2>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K2>
+							<average>
+								<radius unit="mm"></radius>
+							</average>
+							<cylinder>
+								<power unit="D"></power>
+								<axis unit="deg"></axis>
+							</cylinder>
+						</m3mm>
+						<m5mm>
+							<K1>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K1>
+							<K2>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K2>
+							<average>
+								<radius unit="mm"></radius>
+							</average>
+							<cylinder>
+								<power unit="D"></power>
+								<axis unit="deg"></axis>
+							</cylinder>
+						</m5mm>
+						<m7mm>
+							<K1>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K1>
+							<K2>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K2>
+							<average>
+								<radius unit="mm"></radius>
+							</average>
+							<cylinder>
+								<power unit="D"></power>
+								<axis unit="deg"></axis>
+							</cylinder>
+						</m7mm>
+					</meridians>
+					<keratoconus>
+						<kpi unit="%"></kpi>
+						<si unit="D"></si>
+						<AGC unit="D/mm"></AGC>
+						<ak unit="mm"></ak>
+					</keratoconus>
+					<zernike>
+						<zernike_photopic>
+							<pupil unit="mm"></pupil>
+							<Zernike_LOA>
+								<LOA unit="%"></LOA>
+								<LOA_total></LOA_total>
+								<Z00></Z00>
+								<Z11></Z11>
+								<Z20></Z20>
+								<Z22></Z22>
+							</Zernike_LOA>
+							<Zernike_HOA>
+								<HOA unit="%"></HOA>
+								<HOA_total></HOA_total>
+								<Z40></Z40>
+								<Z42></Z42>
+								<Z44></Z44>
+								<Z51></Z51>
+								<Z53></Z53>
+								<Z55></Z55>
+								<Z60></Z60>
+								<Z62></Z62>
+								<Z64></Z64>
+								<Z66></Z66>
+								<Z71></Z71>
+								<Z73></Z73>
+								<Z75></Z75>
+								<Z77></Z77>
+							</Zernike_HOA>
+						</zernike_photopic>
+						<zernike_mesopic>
+							<pupil unit="mm"></pupil>
+							<Zernike_LOA>
+								<LOA unit="%"></LOA>
+								<LOA_total></LOA_total>
+								<Z00></Z00>
+								<Z11></Z11>
+								<Z20></Z20>
+								<Z22></Z22>
+							</Zernike_LOA>
+							<Zernike_HOA>
+								<HOA unit="%"></HOA>
+								<HOA_total></HOA_total>
+								<Z40></Z40>
+								<Z42></Z42>
+								<Z44></Z44>
+								<Z51></Z51>
+								<Z53></Z53>
+								<Z55></Z55>
+								<Z60></Z60>
+								<Z62></Z62>
+								<Z64></Z64>
+								<Z66></Z66>
+								<Z71></Z71>
+								<Z73></Z73>
+								<Z75></Z75>
+								<Z77></Z77>
+							</Zernike_HOA>
+						</zernike_mesopic>
+						<zernike_total>
+							<pupil unit="mm"></pupil>
+							<Zernike_LOA>
+								<LOA unit="%"></LOA>
+								<LOA_total></LOA_total>
+								<Z00></Z00>
+								<Z11></Z11>
+								<Z20></Z20>
+								<Z22></Z22>
+							</Zernike_LOA>
+							<Zernike_HOA>
+								<HOA unit="%"></HOA>
+								<HOA_total></HOA_total>
+								<Z40></Z40>
+								<Z42></Z42>
+								<Z44></Z44>
+								<Z51></Z51>
+								<Z53></Z53>
+								<Z55></Z55>
+								<Z60></Z60>
+								<Z62></Z62>
+								<Z64></Z64>
+								<Z66></Z66>
+								<Z71></Z71>
+								<Z73></Z73>
+								<Z75></Z75>
+								<Z77></Z77>
+							</Zernike_HOA>
+						</zernike_total>
+					</zernike>
+					<eccentricity>
+						<Mer.>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+						</Mer.>
+						<R0>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</R0>
+						<e10deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e10deg>
+						<e15deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e15deg>
+						<e20deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e20deg>
+						<e25deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e25deg>
+						<e30deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e30deg>
+					</eccentricity>
+				</topo_right>
+				<topo_left>
+					<axis_step unit="deg"></axis_step>
+					<cylinder_mode></cylinder_mode>
+					<diopter_step unit="D"></diopter_step>
+					<refractive_index></refractive_index>
+					<CL_fitting>
+						<CL_fitting></CL_fitting>
+						<manufacturer></manufacturer>
+						<model></model>
+						<diameter unit="mm"></diameter>
+						<base_curve unit="mm"></base_curve>
+					</CL_fitting>
+					<image>
+						<Axial></Axial>
+						<Instantaneous></Instantaneous>
+						<Elevation></Elevation>
+						<Refraction></Refraction>
+					</image>
+					<sim_k>
+						<K1>
+							<radius unit="mm"></radius>
+							<axis unit="deg"></axis>
+						</K1>
+						<K2>
+							<radius unit="mm"></radius>
+							<axis unit="deg"></axis>
+						</K2>
+						<average>
+							<radius unit="mm"></radius>
+						</average>
+						<cylinder>
+							<power unit="D"></power>
+							<axis unit="deg"></axis>
+						</cylinder>
+					</sim_k>
+					<geometry>
+						<P></P>
+						<e></e>
+					</geometry>
+					<meridians>
+						<m3mm>
+							<K1>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K1>
+							<K2>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K2>
+							<average>
+								<radius unit="mm"></radius>
+							</average>
+							<cylinder>
+								<power unit="D"></power>
+								<axis unit="deg"></axis>
+							</cylinder>
+						</m3mm>
+						<m5mm>
+							<K1>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K1>
+							<K2>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K2>
+							<average>
+								<radius unit="mm"></radius>
+							</average>
+							<cylinder>
+								<power unit="D"></power>
+								<axis unit="deg"></axis>
+							</cylinder>
+						</m5mm>
+						<m7mm>
+							<K1>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K1>
+							<K2>
+								<radius unit="mm"></radius>
+								<axis unit="deg"></axis>
+							</K2>
+							<average>
+								<radius unit="mm"></radius>
+							</average>
+							<cylinder>
+								<power unit="D"></power>
+								<axis unit="deg"></axis>
+							</cylinder>
+						</m7mm>
+					</meridians>
+					<keratoconus>
+						<kpi unit="%"></kpi>
+						<si unit="D"></si>
+						<AGC unit="D/mm"></AGC>
+						<ak unit="mm"></ak>
+					</keratoconus>
+					<zernike>
+						<zernike_photopic>
+							<pupil unit="mm"></pupil>
+							<Zernike_LOA>
+								<LOA unit="%"></LOA>
+								<LOA_total></LOA_total>
+								<Z00></Z00>
+								<Z11></Z11>
+								<Z20></Z20>
+								<Z22></Z22>
+							</Zernike_LOA>
+							<Zernike_HOA>  
+								<HOA unit="%"></HOA>
+								<HOA_total></HOA_total>
+								<Z40></Z40>
+								<Z42></Z42>
+								<Z44></Z44>
+								<Z51></Z51>
+								<Z53></Z53>
+								<Z55></Z55>
+								<Z60></Z60>
+								<Z62></Z62>
+								<Z64></Z64>
+								<Z66></Z66>
+								<Z71></Z71>
+								<Z73></Z73>
+								<Z75></Z75>
+								<Z77></Z77>
+							</Zernike_HOA>
+						</zernike_photopic>
+						<zernike_mesopic>
+							<pupil unit="mm"></pupil>
+							<Zernike_LOA>
+								<LOA unit="%"></LOA>
+								<LOA_total></LOA_total>
+								<Z00></Z00>
+								<Z11></Z11>
+								<Z20></Z20>
+								<Z22></Z22>
+							</Zernike_LOA>
+							<Zernike_HOA>
+								<HOA unit="%"></HOA>
+								<HOA_total></HOA_total>
+								<Z40></Z40>
+								<Z42></Z42>
+								<Z44></Z44>
+								<Z51></Z51>
+								<Z53></Z53>
+								<Z55></Z55>
+								<Z60></Z60>
+								<Z62></Z62>
+								<Z64></Z64>
+								<Z66></Z66>
+								<Z71></Z71>
+								<Z73></Z73>
+								<Z75></Z75>
+								<Z77></Z77>
+							</Zernike_HOA>
+						</zernike_mesopic>
+						<zernike_total>
+							<pupil unit="mm"></pupil>
+							<Zernike_LOA>
+								<LOA unit="%"></LOA>
+								<LOA_total></LOA_total>
+								<Z00></Z00>
+								<Z11></Z11>
+								<Z20></Z20>
+								<Z22></Z22>
+							</Zernike_LOA>
+							<Zernike_HOA>
+								<HOA unit="%"></HOA>
+								<HOA_total></HOA_total>
+								<Z40></Z40>
+								<Z42></Z42>
+								<Z44></Z44>
+								<Z51></Z51>
+								<Z53></Z53>
+								<Z55></Z55>
+								<Z60></Z60>
+								<Z62></Z62>
+								<Z64></Z64>
+								<Z66></Z66>
+								<Z71></Z71>
+								<Z73></Z73>
+								<Z75></Z75>
+								<Z77></Z77>
+							</Zernike_HOA>
+						</zernike_total>
+					</zernike>
+					<eccentricity>
+						<Mer.>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+						</Mer.>
+						<R0>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</R0>
+						<e10deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e10deg>
+						<e15deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e15deg>
+						<e20deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e20deg>
+						<e25deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e25deg>
+						<e30deg>
+							<Nasal></Nasal>
+							<Temporal></Temporal>
+							<Inferior></Inferior>
+							<Superior></Superior>
+							<Horizontal></Horizontal>
+							<Vertical></Vertical>
+							<Medium></Medium>
+						</e30deg>
+					</eccentricity>
+				</topo_left>
+			</measure_TOPO>
+			<ACA>
+				<ACA_right>
+					<depth_previous_chamber></depth_previous_chamber>
+					<pachy>
+						<l3></l3>
+						<l2></l2>
+						<l1></l1>
+						<central></central>
+						<r1></r1>
+						<r2></r2>
+						<r3></r3>
+					</pachy>
+					<angle_irido_corneen>
+						<irido_right></irido_right>
+						<irido_left></irido_left>
+					</angle_irido_corneen>
+					<white_to_white>
+						<white_right unit="mm"></white_right>
+						<white_left unit="mm"></white_left>
+					</white_to_white>
+				</ACA_right>
+				<ACA_left>
+					<depth_previous_chamber></depth_previous_chamber>
+					<pachy>
+						<l3></l3>
+						<l2></l2>
+						<l1></l1>
+						<central></central>
+						<r1></r1>
+						<r2></r2>
+						<r3></r3>
+					</pachy>
+					<angle_irido_corneen>
+						<irido_right></irido_right>
+						<irido_left></irido_left>
+					</angle_irido_corneen>
+					<white_to_white>
+						<white_right unit="mm"></white_right>
+						<white_left unit="mm"></white_left>
+					</white_to_white>
+				</ACA_left>
+			</ACA>
+			<TONO>
+				<tono_right>
+					<average></average>
+					<PIO>
+						<mesure1></mesure1>
+						<mesure2></mesure2>
+						<mesure3></mesure3>
+					</PIO>
+					<PIOc>
+						<mesure1></mesure1>
+						<mesure2></mesure2>
+						<mesure3></mesure3>
+					</PIOc>
+				</tono_right>
+				<tono_left>
+					<average></average>
+					<PIO>
+						<mesure1></mesure1>
+						<mesure2></mesure2>
+						<mesure3></mesure3>
+					</PIO>
+					<PIOc>
+						<mesure1></mesure1>
+						<mesure2></mesure2>
+						<mesure3></mesure3>
+					</PIOc>
+				</tono_left>
+			</TONO>
+			<ACCO>
+				<acco_right>
+					<dist unit="cm"></dist>
+					<add unit="cm"></add>
+					<residual_add unit="cm"></residual_add>
+				</acco_right>
+				<acco_left>
+					<dist unit="cm"></dist>
+					<add unit="cm"></add>
+					<residual_add unit="cm"></residual_add>
+				</acco_left>
+			</ACCO>
+			<pupillo>
+				<pupillo_right>
+					<diameter>
+						<day>
+							<x></x>
+							<y></y>
+						</day>
+						<night>
+							<x></x>
+							<y></y>
+						</night>
+						<near_vision>
+							<x></x>
+							<y></y>
+						</near_vision>
+					</diameter>
+					<decentering>
+						<day>
+							<x></x>
+							<y></y>
+						</day>
+						<night>
+							<x></x>
+							<y></y>
+						</night>
+						<near_vision>
+							<x></x>
+							<y></y>
+						</near_vision>
+					</decentering>
+				</pupillo_right>
+				<pupillo_left>
+					<diameter>
+						<day>
+							<x></x>
+							<y></y>
+						</day>
+						<night>
+							<x></x>
+							<y></y>
+						</night>
+						<near_vision>
+							<x></x>
+							<y></y>
+						</near_vision>
+					</diameter>
+					<decentering>
+						<day>
+							<x></x>
+							<y></y>
+						</day>
+						<night>
+							<x></x>
+							<y></y>
+						</night>
+						<near_vision>
+							<x></x>
+							<y></y>
+						</near_vision>
+					</decentering>
+				</pupillo_left>
+			</pupillo>
+		</objective_mesurement>
+		<subjective_mesurement>
+			<ID></ID>
+			<measure_REF>
+				<axis_step unit="deg"></axis_step>
+				<diopter_step unit="D"></diopter_step>
+				<cylinder_mode></cylinder_mode>
+				<ref_right>
+					<far_vision>
+						<half_far_pupil_distance></half_far_pupil_distance>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<prism>
+							<cartesian>
+								<horizontal_diopter></horizontal_diopter>
+								<vertical_diopter></vertical_diopter>
+							</cartesian>
+							<polar>
+								<base></base>
+								<resulting_prism></resulting_prism>
+							</polar>
+						</prism>
+					</far_vision>
+					<near_vision>
+						<half_far_pupil_distance></half_far_pupil_distance>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<addition></addition>
+						<prism>
+							<cartesian>
+								<horizontal_diopter></horizontal_diopter>
+								<vertical_diopter></vertical_diopter>
+							</cartesian>
+							<polar>
+								<base></base>
+								<resulting_prism></resulting_prism>
+							</polar>
+						</prism>
+					</near_vision>
+				</ref_right>
+				<ref_left>
+					<far_vision>
+						<half_far_pupil_distance></half_far_pupil_distance>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<prism>
+							<cartesian>
+								<horizontal_diopter></horizontal_diopter>
+								<vertical_diopter></vertical_diopter>
+							</cartesian>
+							<polar>
+								<base></base>
+								<resulting_prism></resulting_prism>
+							</polar>
+						</prism>
+					</far_vision>
+					<near_vision>
+						<half_far_pupil_distance></half_far_pupil_distance>
+						<sphere></sphere>
+						<cylinder></cylinder>
+						<axis></axis>
+						<addition></addition>
+						<prism>
+							<cartesian>
+								<horizontal_diopter></horizontal_diopter>
+								<vertical_diopter></vertical_diopter>
+							</cartesian>
+							<polar>
+								<base></base>
+								<resulting_prism></resulting_prism>
+							</polar>
+						</prism>
+					</near_vision>
+				</ref_left>
+			</measure_REF>
+			<measure_VA>
+				<unit></unit>
+				<REF>
+					<VA_right>
+						<far_vision></far_vision>
+						<near_vision></near_vision>
+					</VA_right>
+					<VA_left>
+						<far_vision></far_vision>
+						<near_vision></near_vision>
+					</VA_left>
+					<VA_bino>
+						<far_vision></far_vision>
+						<near_vision></near_vision>
+					</VA_bino>
+				</REF>
+				<LM>
+					<VA_right>
+						<far_vision></far_vision>
+						<near_vision></near_vision>
+					</VA_right>
+					<VA_left>
+						<far_vision></far_vision>
+						<near_vision></near_vision>
+					</VA_left>
+					<VA_bino>
+						<far_vision></far_vision>
+						<near_vision></near_vision>
+					</VA_bino>
+				</LM>
+				<AR>
+					<VA_right>
+						<far_vision></far_vision>
+						<near_vision></near_vision>
+					</VA_right>
+					<VA_left>
+						<far_vision></far_vision>
+						<near_vision></near_vision>
+					</VA_left>
+					<VA_bino>
+						<far_vision></far_vision>
+						<near_vision></near_vision>
+					</VA_bino>
+				</AR>
+			</measure_VA>
+		</subjective_mesurement>
+		<LSM_mesurement>
+			<ID>00400</ID>
+			<measure_REF>
+				<axis_step unit="deg">1</axis_step>
+				<diopter_step unit="deg">0.25</diopter_step>
+				<cylinder_mode>-</cylinder_mode>
+				<ref_right>
+					<half_far_pupil_distance>+32.0</half_far_pupil_distance>
+					<sphere>+0.50</sphere>
+					<cylinder>-0.75</cylinder>
+					<axis>    62</axis>
+					<addition>+2.50</addition>
+					<prism>
+					</prism>
+				</ref_right>
+				<ref_left>
+					<half_far_pupil_distance>+30.0</half_far_pupil_distance>
+					<sphere>+1.00</sphere>
+					<cylinder>-1.25</cylinder>
+					<axis>   101</axis>
+					<addition>+2.50</addition>
+					<prism>
+					</prism>
+				</ref_left>
+			</measure_REF>
+		</LSM_mesurement>
+	</optometry>
+</optic>
